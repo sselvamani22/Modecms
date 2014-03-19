@@ -1,4 +1,11 @@
-
+@font-face {
+font-family: Futura BdCn BT;
+src: url("fonts/Futura_0.ttf");
+}
+@font-face {
+font-family: Futura LtCn BT;
+src: url("fonts/Futura (2).ttf");
+}
 body {
   background-image: url("images/background_body.png");
   font-family: "Open Sans";
